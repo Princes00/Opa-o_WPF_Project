@@ -19,7 +19,7 @@
                 BorderBrush="#3E3E42" BorderThickness="1">
 
             <StackPanel>
-                <TextBlock Text="📇 Contact List"
+                <TextBlock Text="Contact List"
                            FontSize="22"
                            FontWeight="Bold"
                            Margin="5"
@@ -55,7 +55,7 @@
                 </DataGrid>
 
                 <Button x:Name="btnDeleteData"
-                        Content="🗑 DELETE"
+                        Content="DELETE"
                         Height="45"
                         Margin="5"
                         FontSize="16"
@@ -75,7 +75,7 @@
 
             <StackPanel>
 
-                <TextBlock Text="Add / Edit Contact"
+                <TextBlock Text="Contact Details"
                            FontSize="18"
                            FontWeight="Bold"
                            Margin="0,0,0,10"
@@ -113,7 +113,7 @@
 
                 <!-- Save -->
                 <Button x:Name="btnSave"
-                        Content="💾 SAVE"
+                        Content="SAVE"
                         Height="45"
                         FontSize="18"
                         FontWeight="Bold"
